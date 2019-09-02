@@ -1,0 +1,23 @@
+/*轮流播图*/
+.lunbo ul li{display:none;position: relative;}
+.leftsanjiao{background:url(../image/focus_lr0918.png) no-repeat scroll 0px 0px;width:28px;height:60px;position: absolute;left:335px;top:360px;}
+.rightsanjiao{background:url(../image/focus_lr0918.png) no-repeat scroll -52px 0px; width:28px;height:60px;position: absolute;left:1250px;top:360px;}
+/*广告位置*/
+.add{height:40px;margin-top:40px;}
+/*新品*/
+.goodsnav{height:118px;margin-top:10px;}
+.goods{height:457px;background:#ccc;}
+/*新年促销*/
+.promotion{margin-top:20px;}
+.promotion_goods{height:427px;margin-top:9px;}
+.promotion_goods ul li{float:left;margin-right:9px;margin-top:9px;}
+.promotion_goods .one{float:right;margin-right:2px;}
+.promotion_goodstwo{height:402px;margin-top:25px;}
+.promotion_goodstwo li{float:left;}
+.promotion_goodstwo .one{margin-left:9px;}
+/*全部商品*/
+.allgoods{padding-top:25px;}
+.allgoods ul li{float:left;margin-right:15px;margin-top:9px;}
+.allgoods ul .one{float:left;margin-right:0px;}
+
+
